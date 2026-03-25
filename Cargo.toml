@@ -1,0 +1,8 @@
+[package]
+name = "leetbox"
+version = "0.1.0"
+edition = "2024"
+authors = ["beck@j38.uk"]
+description = "Sandbox with mostly leetcodes for learning Rust"
+
+[dependencies]
